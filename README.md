@@ -8,15 +8,15 @@
 
 `pdfmake-mini` is a fork of [pdfmake](http://pdfmake.org/), with the goal
 to slim it down as much as possible. Basically, I'd like to create a
-[pdfkit](https://github.com/pdfkit/pdfkit) plugin that is compatible
+[pdfkit](https://github.com/devongovett/pdfkit/) plugin that is compatible
 with pdfmake's content declaration.
 
 ## Demo / Playground
 
 ```
 git clone git@github.com:gr2m/pdf-editor.git
-git checkout pdfmake-mini
 cd pdf-editor
+git checkout pdfmake-mini
 npm install
 npm start
 ```
