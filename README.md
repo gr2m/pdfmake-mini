@@ -20,3 +20,8 @@ git checkout pdfmake-mini
 npm install
 npm start
 ```
+
+Current issue is, that no text is showing up at all. Other things
+like borders and backgrounds are being rendered. My guess is that
+the problem is the font embedding, but I couldn't figure it out.
+Any help would be much appreciated
