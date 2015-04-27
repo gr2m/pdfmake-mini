@@ -1,8 +1,8 @@
 {
   "name": "pdfmake-mini",
   "version": "1.0.0",
-  "description": "WIP – just the essence of pdfmake (pdfmake.org)",
-  "main": "index.js",
+  "description": "WIP – the essence of pdfmake (pdfmake.org)",
+  "main": "lib/printer.js",
   "dependencies": {
     "lodash": "^3.1.0"
   },
