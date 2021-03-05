@@ -1,7 +1,7 @@
 {
   "name": "pdfmake-mini",
   "version": "1.0.0",
-  "description": "WIP – the essence of pdfmake (pdfmake.org)",
+  "description": "WIP â the essence of pdfmake (pdfmake.org)",
   "main": "lib/printer.js",
   "dependencies": {
     "lodash": "^3.1.0"
@@ -10,17 +10,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:gr2m/pdfmake-mini.git"
-  },
+  "repository": "github:gr2m/pdfmake-mini",
   "keywords": [
     "pdfmake"
   ],
   "author": "Gregor Martynus <gregor@martynus.net>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gr2m/pdfmake-mini/issues"
-  },
-  "homepage": "https://github.com/gr2m/pdfmake-mini"
+  "license": "MIT"
 }
